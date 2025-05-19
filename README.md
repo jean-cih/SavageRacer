@@ -1,5 +1,3 @@
-# Savage-Racer
-
 # Savage Racer - Игра-гонка на выживание
 
 ## Описание
